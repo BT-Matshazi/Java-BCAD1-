@@ -1,3 +1,6 @@
+//bekithemb matshazi
+//java insertion sort program
+
 import javax.swing.JOptionPane;
 import java.util.*;
 
