@@ -1,3 +1,6 @@
+//insertion sort program
+//bekithemba matshazi
+
 public class InsertionSort
 {
     static int[] arr = { 50, 80, 10, 30, 90, 60, 89, 56, 98, 19, 22, 37};
