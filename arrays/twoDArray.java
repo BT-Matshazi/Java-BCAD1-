@@ -1,3 +1,5 @@
+//creating a 2d and 1d array
+
 public class Array
 {
     public static void main (String [] args) 
