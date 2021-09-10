@@ -1,6 +1,7 @@
+//bekithemba matshazi
 
-package group6assessments;
 import javax.swing.*;
+
 public class Vehicle {
 
     public static void main(String[] args) {
