@@ -1,3 +1,6 @@
+//creating a an array
+//creation a 2d array
+
 public class Array
 {
     public static void main (String [] args) 
@@ -13,3 +16,5 @@ public class Array
         System.out.println(tvShow[1]);
     }
 }
+
+//bekithemba matshazi
