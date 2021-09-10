@@ -1,3 +1,5 @@
+//bekithemba matshazi
+//bubble sort program
 
 public class bubblesSort
 {
