@@ -1,3 +1,6 @@
+//bubble sort decending order
+//bekithemba matshazi
+
 import javax.swing.JOptionPane;
 import java.util.*;
 
