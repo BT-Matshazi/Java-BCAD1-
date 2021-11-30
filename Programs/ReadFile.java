@@ -17,10 +17,10 @@ public class ReadFile {
 		while (scan.hasNextLine()) {
 			fileContent = fileContent.concat(scan.nextLine() + "\n");
 		}
-
-		FileWriter writer = new FileWriter("/Users/alexlee/Desktop/newfile.txt");
-		writer.write(fileContent);
-		writer.close();
+// transfering to new file
+// 		FileWriter writer = new FileWriter("/Users/alexlee/Desktop/newfile.txt");
+// 		writer.write(fileContent);
+// 		writer.close();
 
 	}
 
